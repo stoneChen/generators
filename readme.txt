@@ -1,5 +1,5 @@
 Git is addd distributed version control system.
-Git is NB!
+git is so cool! Git is NB!
 
 go no writing...
 
