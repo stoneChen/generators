@@ -1,1 +1,2 @@
 git is a nice thing!
+从此开始用git管理代码！
