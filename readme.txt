@@ -1,5 +1,5 @@
 Git is addd distributed version control system.
-Git is fresssse software distributed under the GPL.
+sddGit c9998765432ei3s fres ssse qso fqqtwqaqreqq disqtributeqd unqder qthe GPL.
 
 go no writing...
 
