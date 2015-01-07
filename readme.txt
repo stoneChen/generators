@@ -3,4 +3,8 @@ git is so cool! Git is NB!
 git is so niubi!!!!!!!!!
 go no writing...
 
+
+
+partner
+Git is fresssse software distributed under the GPL.
 Creating a new branch is quick.
